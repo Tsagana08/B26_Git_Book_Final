@@ -1,4 +1,6 @@
 commit from our team mate
 
 
-they commit
+they commit and push on their computer
+
+part 2 for update
